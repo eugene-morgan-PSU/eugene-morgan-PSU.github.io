@@ -1,0 +1,66 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+```{=html}
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45773949-3"></script>
+```
+```{=html}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-45773949-3');
+</script>
+```
+---
+title: "Eugene Morgan"
+---
+
+::: {style="float:right;position: relative; top: -40px;"}
+```{r, echo=FALSE, out.width = "200px"}
+knitr::include_graphics("headshot.jpg")
+```
+:::
+
+**Associate Head for Undergraduate Education**
+
+**Associate Teaching Professor**
+
+John and Willie Leone Family Department of Energy and Mineral Engineering\
+Penn State University\
+115 Hosler Building\
+University Park, PA 16802-5000\
+office: 814-863-1642\
+[eugene.morgan\@psu.edu](mailto:eugene.morgan@psu.edu)
+
+### Research Interests
+
+My primary research activities focus on developing Bayesian inversion strategies for extracting information from seismic survey data. In particular, I investigate the use of seismic attenuation in these inversion strategies because instrinsic attenuation is theoretically linked more strongly to the hydraulic properties of a formation (i.e., porosity, permeability, saturation) than velocity. The non-linearity and multimodality of the rock physics equations that model attenuation warrant stochastic inversion techniques, and a Bayesian framework allows a convenient expression of prior geologic knowledge, as well as the predictions, in a probabilistic way. These methods can achieve a better characterization of reservoirs in the exploration phase.
+
+I am also interested in solving problems in the oil and gas industry using statistics, BIG data analytics, and machine learning. A large focus is on well production data, where my group is using time series statistics, geostatistics, and pattern recognition techniques to improve forecasting and operational decision support.
+
+### Employment
+
+-   *John and Willie Leone Family Department of Energy and Mineral Engineering, Penn State* [2014-present]{style="float:right"}
+-   Adjunct Faculty, *Duke University, Pratt School of Engineering & Department of Statistical Science* [2012-2014]{style="float:right"}\
+-   Visiting Assistant Professor, *Duke University, Department of Civil & Environmental Engineering* [2011-2012]{style="float:right"}\
+-   Research Fellow, *Statistical and Applied Mathmatical Sciences Institute* [2011-2012]{style="float:right"}
+
+### Education
+
+-   Ph.D., *Tufts University, Civil & Environmental Engineering* [2011]{style="float:right"}
+-   M.S., *Tufts University, Civil & Environmental Engineering* [2008]{style="float:right"}
+-   B.S., *U.C. Santa Cruz, Earth Sciences* [2005]{style="float:right"}
+
+### Courses Taught
+
+-   EME 210/PNG 397: Data Analytics for Energy Systems
+-   PNG 440: Formation Evaluation
+-   PNG 490: Introduction to Petroleum Engineering Design (capstone)
+-   PNG 566: Reservoir Characterization
+
+### Other Activities
+
+-   Participant in the National Risk Assessment Partnership (NRAP) [2017-2022]{style="float:right"}
+-   Scholarship Chair, *SPE Pittsburgh Section* [2014-Present]{style="float:right"}
+-   Faculty Advisor, *Penn State SPE Student Chapter* [2014-2018]{style="float:right"}
