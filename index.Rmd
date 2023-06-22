@@ -17,7 +17,7 @@ title: "Eugene Morgan"
 ---
       
 ::: {style="float:right;position: relative; top: -40px;"}
-```{r, echo=FALSE, out.width = "200px"}
+```{r, echo=FALSE, out.width = "300px"}
 knitr::include_graphics("headshot.jpg")
 ```
 :::
@@ -35,7 +35,7 @@ office: 814-863-1642\
 
 ### Research Interests
 
-My primary research activities focus on developing Bayesian inversion strategies for extracting information from seismic survey data. In particular, I investigate the use of seismic attenuation in these inversion strategies because instrinsic attenuation is theoretically linked more strongly to the hydraulic properties of a formation (i.e., porosity, permeability, saturation) than velocity. The non-linearity and multimodality of the rock physics equations that model attenuation warrant stochastic inversion techniques, and a Bayesian framework allows a convenient expression of prior geologic knowledge, as well as the predictions, in a probabilistic way. These methods can achieve a better characterization of reservoirs in the exploration phase.
+My primary research activities focus on developing Bayesian inversion strategies for extracting information from seismic survey data. In particular, I investigate the use of seismic attenuation in these inversion strategies because intrinsic attenuation is theoretically linked more strongly to the hydraulic properties of a formation (i.e., porosity, permeability, saturation) than velocity. The non-linearity and multimodality of the rock physics equations that model attenuation warrant stochastic inversion techniques, and a Bayesian framework allows a convenient expression of prior geologic knowledge, as well as the predictions, in a probabilistic way. These methods can achieve a better characterization of reservoirs in the exploration phase.
 
 I am also interested in solving problems in the oil and gas industry using statistics, BIG data analytics, and machine learning. A large focus is on well production data, where my group is using time series statistics, geostatistics, and pattern recognition techniques to improve forecasting and operational decision support.
 
@@ -54,13 +54,15 @@ I am also interested in solving problems in the oil and gas industry using stati
 
 ### Courses Taught
 
--   EME 210/PNG 397: Data Analytics for Energy Systems
+-   [EME 210: Data Analytics for Energy Systems](https://www.e-education.psu.edu/eme210/)
+-   [EME 802: Renewable and Sustainable Energy Systems](https://www.e-education.psu.edu/eme802/)
 -   PNG 440: Formation Evaluation
 -   PNG 490: Introduction to Petroleum Engineering Design (capstone)
 -   PNG 566: Reservoir Characterization
 
 ### Other Activities
 
--   Participant in the National Risk Assessment Partnership (NRAP) [2017-2022]{style="float:right"}
--   Scholarship Chair, *SPE Pittsburgh Section* [2014-Present]{style="float:right"}
+-   Participant in the [National Risk Assessment Partnership (NRAP)](https://edx.netl.doe.gov/nrap/) [2017-2022]{style="float:right"}
+-   Guest Editor, Mathematical Geosciences ([IAMG 2019 Special Issue](https://rdcu.be/de97f)) [2020]
+-   Scholarship Chair, *SPE Pittsburgh Section* [2014-2019]{style="float:right"}
 -   Faculty Advisor, *Penn State SPE Student Chapter* [2014-2018]{style="float:right"}
