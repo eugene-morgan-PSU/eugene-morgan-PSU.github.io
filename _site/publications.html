@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Publications</title>
+
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Eugene Morgan</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="presentations.html">Presentations</a>
+</li>
+<li>
+  <a href="projects.html">Projects</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Publications</h1>
+
+</div>
+
+
+<hr />
+<div id="journal-articles" class="section level3">
+<h3>Journal Articles</h3>
+<p>Morgan, E (20<em>xx</em>). “<a
+href="publications\Morgan_2019_Applied_Energy_Review.pdf">Accounting for
+serial autocorrelation in decline curve analysis</a>.” <em>Applied
+Energy</em>, (<em>in review</em>).</p>
+<p>Joon, S, Dawuda, I, Morgan, E, Srinivasan, S (2022) “<a
+href="publications\Joon_2022_spe-209585-pa.pdf">Rock Physics-Based Data
+Assimilation of Integrated Continuous Active-Source Seismic and Pressure
+Monitoring Data during Geological Carbon Storage</a>.” <em>SPE
+Journal</em>, 27: 2510–2524. <a
+href="https://doi.org/10.2118/209585-PA">doi:10.2118/209585-PA</a></p>
+<p>Udegbe, E, Morgan, E, and Srinivasan, S (2019). “<a
+href="https://rdcu.be/bQzlF">Big Data Analytics for Seismic Fracture
+Identification, using Amplitude-Based Statistics</a>.” <em>Computational
+Geosciences</em>, 1-15. <a
+href="http://link.springer.com/article/10.1007/s10596-019-09890-z">doi:10.1007/s10596-019-09890-z</a></p>
+<p>Xi, Z, and Morgan, E (2019). “<a
+href="publications\SPE-197055-PA.pdf">Combining Decline-Curve Analysis
+and Geostatistics To Forecast Gas Production in the Marcellus
+Shale</a>.” <em>SPE Reservoir Evaluation and Engineering - Formation
+Evaluation</em>. <a
+href="https://doi.org/10.2118/197055-PA">doi:10.2118/197055-PA</a></p>
+<p>Udegbe, E, Morgan, E, and Srinivasan, S (2019). “<a
+href="publications\SPE-187328-PA.pdf">Big Data Analytics for Production
+Data Classification using Feature Detection: Application to
+Restimulation Candidate Selection</a>.” <em>SPE Reservoir Evaluation and
+Engineering - Formation Evaluation</em>. <a
+href="https://doi.org/10.2118/187328-PA">doi:10.2118/187328-PA</a></p>
+<p>Morgan, EC, Vanneste, M, Lecomte, I, Baise, LG, Longva, O, and
+McAdoo, BG (2012). “Estimation of free gas saturation from seismic
+reflection surveys by the genetic algorithm inversion of a P-wave
+attenuation model.” <em>Geophysics</em>, 77(4): R175-R187. <a
+href="https://www.crossref.org/iPage?doi=10.1190%2Fgeo2011-0291.1">doi:10.1190/geo2011-0291.1</a></p>
+<p>Thompson, EM, Baise, LG, Kayen, RE, Morgan, EC, and Kaklamanos, J
+(2011). “Integrated multiscale site response mapping.” <em>Bulletin of
+the Seismological Society of America</em>, 101(3): 1081-1100. <a
+href="https://www.crossref.org/iPage?doi=10.1785%2F0120100211">doi:10.1785/0120100211</a></p>
+<p>Morgan, EC, Lackner, M, Vogel, RM, and Baise, LG (2011). “Probability
+distributions for offshore wind speeds.” <em>Energy Conversion and
+Management</em>, 52(1): 15-26. <a
+href="https://www.sciencedirect.com/science/article/pii/S019689041000227X?via%3Dihub">doi:10.1016/j.enconman.2010.06.015</a></p>
+<p>Morgan, EC, McAdoo, BG, and Baise, LG (2008). “Quantifying
+geomorphology associated with large subduction zone earthquakes.”
+<em>Basin Research</em>, 20(4): 531-542. <a
+href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2117.2008.00368.x">doi:10.1111/j.1365-2117.2008.00368.x</a></p>
+<p>Hoffmann, G, Silver, E, Day, S, Morgan, EC, Driscoll, NW, and Orange,
+D (2008). “Sediment waves in the Bismarck volcanic arc, Papua New
+Guinea.” <em>Special Paper - Geological Society of America</em>, 436:
+91-126. <a
+href="https://pubs.geoscienceworld.org/books/book/595/chapter/3804526/">doi:10.1130/2008.2436(05)</a></p>
+<hr />
+</div>
+<div id="book-chapters" class="section level3">
+<h3>Book Chapters</h3>
+<p>Ayala, LF, and Morgan, EC (2016). “Natural Gas Production
+Engineering.” <em>ASTM Publication MNL73: Exploration and Production of
+Petroleum and Natural Gas Handbook</em>, Ch. 14.</p>
+<p>Vanneste, M, Forsberg, CF, Knudsen, S, Kvalstad, TJ, L’Heureux, J-S,
+Lunne, T, Vardy, ME, Chand, S, Longva, O, Morgan EC, Kopf, A, Morz, T,
+Steiner, A, Brendryen, J, and Haflidason, H (2015). “Integration of
+very-high-resolution seismic and CPTU data from a coastal area affected
+by shallow landsliding - the Finneidfjord natural laboratory.”
+<em>International Symposium on Frontiers in Offshore Geotechnics</em>,
+At Oslo, Norway. Volume: Frontiers in Offshore Geotechnics III, Chapter
+137. ISBN: 978-1-138-02848-7</p>
+<p>Morgan, EC, Vanneste, M, Longva, O, Lecomte, I, McAdoo, B, and Baise,
+LG (2010). “Evaluating gas-generated pore pressure with seismic
+reflection data in a landslide-prone area: an example from Finneidfjord,
+Norway.” In: <em>Submarine Mass Movements and Their Consequences</em>,
+ed. by Mosher, et al., vol. 28, pp. 399-410, Springer. Advances in
+Natural and Technological Hazards Research (ISBN:
+978-90-481-3070-2).</p>
+<hr />
+</div>
+<div id="conference-papers" class="section level3">
+<h3>Conference Papers</h3>
+<p>Morgan, EC (2018). “Accounting for serial autocorrelation in decline
+curve analysis of Marcellus shale gas wells.” <em>Society of Petroleum
+Engineers - Eastern Regional Meeting, 2018</em>, Pittsburgh, PA. <a
+href="publications/Morgan_2018_ERM_Autocorrelation.pdf">SPE-191788-MS</a></p>
+<p>Xi, Z, and Morgan, EC (2018). “Combining decline curve analysis and
+geostatistics to forecast gas production in the Marcellus shale.”
+<em>Society of Petroleum Engineers - Eastern Regional Meeting,
+2018</em>, Pittsburgh, PA. <a
+href="publications/Xi_2018_Combining%20Decline%20Curve%20Analysis%20and%20Geostatistics.pdf">SPE-191793-MS</a></p>
+<p>Udegbe, E, Morgan, EC, and Srinivasan, S (2018). “Big data analytics
+for seismic fracture identification, using amplitude-based statistics.”
+<em>Society of Petroleum Engineers 2018 Annual Technical Conference and
+Exhibition</em>, Dallas, TX. SPE-191668-MS</p>
+<p>Udegbe, E, Morgan, EC, and Srinivasan, S (2017). “From face detection
+to fracture reservoir characterization: Big Data analytics for
+restimulation candidate selection.” <em>Society of Petroleum Engineers
+2017 Annual Technical Conference and Exhibition</em>, San Antonio, TX.
+SPE-187328-MS</p>
+<p>Lei, X, and Morgan, EC (2017). “Characterization of gas-charged
+sediments from joint inversion of Qp and Qs with sonic logs.”
+<em>Society of Exploration Geophysics Annual Meeting</em>, 2017.
+pp. 3319-3324. <a
+href="https://library.seg.org/doi/10.1190/segam2017-17799758.1">doi.org/10.1190/segam2017-17799758.1</a></p>
+<p>Lei, X, and Morgan, EC (2016). “A comparison of methods for
+estimating Q.” <em>Society of Exploration Geophysics Annual
+Meeting</em>, 2016. pp. 3021-3025. <a
+href="https://library.seg.org/doi/10.1190/segam2016-13971809.1">doi.org/10.1190/segam2016-13971809.1</a></p>
+<p>Venugopal, K., Kelly, P., Jamaluddin, A., McConnell, C., Alger, M.,
+Morgan, E., Ni, R., Dunn, R., and Grasselli, G. (2016). “The
+PetroChallenge - An Innovative E&amp;P Learning Experience Using an
+Interactive Learning Simulation”, <em>SPE Annual Technical Conference
+and Exhibition, Society of Petroleum Engineers</em>, Dubai, UAE,
+Sept. 2016. <a href="doi:10.2118/181404-MS"
+class="uri">doi:10.2118/181404-MS</a></p>
+<p>Lei, X, and Morgan, EC (2015). “Characterization of gas-charged
+sediments from joint inversion of Qp and Qs.” <em>Society of Exploration
+Geophysics Annual Meeting</em>, 2015. pp. 2765-2770. <a
+href="https://library.seg.org/doi/10.1190/segam2015-5904497.1">doi:10.1190/segam2015-5904497.1</a></p>
+<p>Vardy, ME, Vanneste, M, Henstock, TJ, Morgan, EC, and Pinson, LJW
+(2015). “Can high-resolution marine geophysical data be inverted for
+soil properties?” <em>Proceedings of the Institute of Acoustics</em>.
+Vol. 37, Pt. 1. University of Bath, UK, Sept. 7-9, 2015.</p>
+<p>Morgan, EC, Vanneste, M, and Vardy, M (2014). “Characterization of
+the slope-destabilizing effects of gas-charged sediment via seismic
+surveys.” <em>Proceedings of the Offshore Technology Conference</em>,
+Paper No. 25196.</p>
+<p>Morgan, EC, and Baise, LG (2011). “Assessing the probability of
+occurrence of earthquake-induced landslides offshore the U.S. East
+Coast: a first-order, second moment approach.” <em>GeoRisk, 2011</em>.
+<a href="publications\Morgan_2011_georisk_paper.pdf">Paper #136</a>.</p>
+<p>Morgan, EC, McAdoo, B, Baise, LG, and DeGroot, DJ (2007).
+“Quantitative seafloor geomorphology and offshore geohazards.”
+<em>Proceedings of the Offshore Technology Conference</em>, Paper
+No. 18736.</p>
+<hr />
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

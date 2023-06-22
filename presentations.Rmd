@@ -1,0 +1,29 @@
+---
+title: "Presentations"
+---
+***
+Morgan, E, "[A Review of Seismic Attenuation Mechanisms, Measurements, and Inversion Strategies](presentations\Morgan_2019_EAGE_workshop.pdf)," WS02 Seismic Inversion for Marine Overburden Characterization workshop, *2019 EAGE Annual Meeting*, June 2nd, 2019.
+
+Morgan, E, "[NRAP: Tools for Geologic Carbon Storage Risk Assessment](presentations\MORGAN_EUGENE_LIGHTNING.pdf)," Lightning Talk, *2019 PSIEE Energy Days*, May 29th, 2019.
+
+Morgan, E, "[Virtual Asset: A Digital Platform for Connecting Research and Education to the Oil and Gas Market](presentations\MORGAN_EUGENE_BREAKOUT.pdf)," Developing the Future Energy Workforce with Integrated Education breakout session, *2019 PSIEE Energy Days*, May 30th, 2019.
+
+Morgan, E, "[Incipient Virtual Asset: Examining Trends in Marcellus Production Across Space and Time](presentations/Morgan_spotlight.pdf)," Spotlight Seminar (Penn State Energy & Mineral Engineering Dept.), Feb. 2018.
+
+Morgan, E, “[Big Data in Oil and Gas: An Application of Time Series Analysis to Improve Probabilistic Forecasting of Production from Marcellus Wells](presentations/Morgan_ADAPT.pdf),” ADAPT Seminar (Penn State Meteorology Dept.), Sep. 2017.
+
+Morgan, E, and Lu, C-P, "[Characterizing Outburst with Microseismic Amplitude Versus Angle Analysis](presentations/EMorgan_ICSMT_2015.pdf)," 8th International Symposium on Green Mining, Xuzhou, China; Apr. 2015.
+
+Morgan, E, “[Characterizing Subsurface Gas Through Bayesian Inversion of a Seismic Attenuation Model](presentations/EMorgan_SMAC_talk.pdf),” SMAC Seminar (Penn State Statistics Dept.), Dec. 2014.
+
+Morgan, E, "Adding spatial dependence constraints to a geophysical inverse problem," SIAM Conference on Uncertainty Quantification, Spatial UQ session: UQ12-MS44-2. April 3, 2012.
+
+Morgan, E, "Mapping landslide hazard over a nonstationary space," SAMSI Workshop on Models with Complex and Uncertain Domains. March 23, 2012.
+
+Morgan, E, "Mapping the probability of earthquake-induced submarine slope failure along the U.S. Atlantic margin: a first-order, second-moment approach," NRC/USGS Workshop on Landslide Tsunami Probability. August 19, 2011.
+
+Morgan, E, Vanneste, M, Longva, O, Lecomte, I, McAdoo, B, and Baise, LG, "[Evaluating gas-generated pore pressure with seismic reflection data in a landslide-prone area: an example from Finneidfjord, Norway](http://mediasite.beg.utexas.edu/mediasite/Viewer/?peid=7822a9e2e7e54044b2d718e64a520e96)," 4th International Symposium on Submarine Mass Movements and Their Consequences, Austin, Texas; Nov. 7-12, 2009.
+        
+Morgan, E, McAdoo, B, and Baise, LG, "Quantitative geomorphology associated with large subduction zone earthquakes," EGU General Assembly, Session GM6.2 (Solicited). 2008.
+
+***

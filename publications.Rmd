@@ -1,0 +1,60 @@
+---
+title: "Publications"
+---
+***
+### Journal Articles
+Morgan, E (20*xx*). "[Accounting for serial autocorrelation in decline curve analysis](publications\Morgan_2019_Applied_Energy_Review.pdf)." *Applied Energy*, (*in review*).
+
+Joon, S, Dawuda, I, Morgan, E, Srinivasan, S (2022) "[Rock Physics-Based Data Assimilation of Integrated Continuous Active-Source Seismic and Pressure Monitoring Data during Geological Carbon Storage](publications\Joon_2022_spe-209585-pa.pdf)." *SPE Journal*, 27: 2510–2524. [doi:10.2118/209585-PA](https://doi.org/10.2118/209585-PA)
+      
+Udegbe, E, Morgan, E, and Srinivasan, S (2019). "[Big Data Analytics for Seismic Fracture Identification, using Amplitude-Based Statistics](https://rdcu.be/bQzlF)." *Computational Geosciences*, 1-15. [doi:10.1007/s10596-019-09890-z](http://link.springer.com/article/10.1007/s10596-019-09890-z)
+
+Xi, Z, and Morgan, E (2019). "[Combining Decline-Curve Analysis and Geostatistics To Forecast Gas Production in the Marcellus Shale](publications\SPE-197055-PA.pdf)." *SPE Reservoir Evaluation and Engineering - Formation Evaluation*. [doi:10.2118/197055-PA](https://doi.org/10.2118/197055-PA)
+
+Udegbe, E, Morgan, E, and Srinivasan, S (2019). "[Big Data Analytics for Production Data Classification using Feature Detection: Application to Restimulation Candidate Selection](publications\SPE-187328-PA.pdf)." *SPE Reservoir Evaluation and Engineering - Formation Evaluation*. [doi:10.2118/187328-PA](https://doi.org/10.2118/187328-PA)
+	
+Morgan, EC, Vanneste, M, Lecomte, I,  Baise, LG, Longva, O, and McAdoo, BG (2012). "Estimation of free gas saturation from seismic reflection surveys by the genetic algorithm inversion of a P-wave attenuation model." *Geophysics*, 77(4): R175-R187. [doi:10.1190/geo2011-0291.1](https://www.crossref.org/iPage?doi=10.1190%2Fgeo2011-0291.1)
+
+Thompson, EM, Baise, LG, Kayen, RE, Morgan, EC, and Kaklamanos, J (2011). "Integrated multiscale site response mapping." *Bulletin of the Seismological Society of America*, 101(3): 1081-1100. [doi:10.1785/0120100211](https://www.crossref.org/iPage?doi=10.1785%2F0120100211)
+
+Morgan, EC, Lackner, M, Vogel, RM, and Baise, LG (2011). "Probability distributions for offshore wind speeds." *Energy Conversion and Management*, 52(1): 15-26. [doi:10.1016/j.enconman.2010.06.015](https://www.sciencedirect.com/science/article/pii/S019689041000227X?via%3Dihub)
+
+Morgan, EC, McAdoo, BG, and Baise, LG (2008). "Quantifying geomorphology associated with large subduction zone earthquakes." *Basin Research*, 20(4): 531-542. [doi:10.1111/j.1365-2117.2008.00368.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2117.2008.00368.x)
+
+Hoffmann, G, Silver, E, Day, S, Morgan, EC, Driscoll, NW, and Orange, D (2008). "Sediment waves in the Bismarck volcanic arc, Papua New Guinea." *Special Paper - Geological Society of America*, 436: 91-126. [doi:10.1130/2008.2436(05)](https://pubs.geoscienceworld.org/books/book/595/chapter/3804526/)  
+
+***
+### Book Chapters
+Ayala, LF, and Morgan, EC (2016). "Natural Gas Production Engineering." *ASTM Publication MNL73: Exploration and Production of Petroleum and Natural Gas Handbook*, Ch. 14.
+
+Vanneste, M, Forsberg, CF, Knudsen, S, Kvalstad, TJ, L'Heureux, J-S, Lunne, T, Vardy, ME, Chand, S, Longva, O, Morgan EC, Kopf, A, Morz, T, Steiner, A, Brendryen, J, and Haflidason, H (2015). "Integration of very-high-resolution seismic and CPTU data from a coastal area affected by shallow landsliding - the Finneidfjord natural laboratory." *International Symposium on Frontiers in Offshore Geotechnics*, At Oslo, Norway. Volume: Frontiers in Offshore Geotechnics III, Chapter 137. ISBN: 978-1-138-02848-7
+
+Morgan, EC, Vanneste, M, Longva, O, Lecomte, I, McAdoo, B, and Baise, LG (2010). "Evaluating gas-generated pore pressure with seismic reflection data in a landslide-prone area: an example from Finneidfjord, Norway." In: *Submarine Mass Movements and Their Consequences*, ed. by Mosher, et al., vol. 28, pp. 399-410, Springer. Advances in Natural and Technological Hazards Research (ISBN: 978-90-481-3070-2).
+
+***
+### Conference Papers
+Morgan, EC (2018). "Accounting for serial autocorrelation in decline curve analysis of Marcellus shale gas wells." *Society of Petroleum Engineers - Eastern Regional Meeting, 2018*, Pittsburgh, PA. [SPE-191788-MS](publications/Morgan_2018_ERM_Autocorrelation.pdf)
+
+Xi, Z, and Morgan, EC (2018). "Combining decline curve analysis and geostatistics to forecast gas production in the Marcellus shale." *Society of Petroleum Engineers - Eastern Regional Meeting, 2018*, Pittsburgh, PA. [SPE-191793-MS](publications/Xi_2018_Combining Decline Curve Analysis and Geostatistics.pdf)
+
+Udegbe, E, Morgan, EC, and Srinivasan, S (2018). "Big data analytics for seismic fracture identification, using amplitude-based statistics." *Society of Petroleum Engineers 2018 Annual Technical Conference and Exhibition*, Dallas, TX.  SPE-191668-MS
+
+Udegbe, E, Morgan, EC, and Srinivasan, S (2017). "From face detection to fracture reservoir characterization: Big Data analytics for restimulation candidate selection." *Society of Petroleum Engineers 2017 Annual Technical Conference and Exhibition*, San Antonio, TX.  SPE-187328-MS
+
+Lei, X, and Morgan, EC (2017). "Characterization of gas-charged sediments from joint inversion of Qp and Qs with sonic logs." *Society of Exploration Geophysics Annual Meeting*, 2017. pp. 3319-3324. [doi.org/10.1190/segam2017-17799758.1](https://library.seg.org/doi/10.1190/segam2017-17799758.1) 
+
+Lei, X, and Morgan, EC (2016). "A comparison of methods for estimating Q." *Society of Exploration Geophysics Annual Meeting*, 2016. pp. 3021-3025. [doi.org/10.1190/segam2016-13971809.1](https://library.seg.org/doi/10.1190/segam2016-13971809.1) 
+
+Venugopal, K., Kelly, P., Jamaluddin, A., McConnell, C., Alger, M., Morgan, E., Ni, R., Dunn, R., and Grasselli, G. (2016). "The PetroChallenge - An Innovative E&P Learning Experience Using an Interactive Learning Simulation", *SPE Annual Technical Conference and Exhibition, Society of Petroleum Engineers*, Dubai, UAE, Sept. 2016. doi:10.2118/181404-MS
+
+Lei, X, and Morgan, EC (2015). "Characterization of gas-charged sediments from joint inversion of Qp and Qs." *Society of Exploration Geophysics Annual Meeting*, 2015. pp. 2765-2770. [doi:10.1190/segam2015-5904497.1](https://library.seg.org/doi/10.1190/segam2015-5904497.1)
+
+Vardy, ME, Vanneste, M, Henstock, TJ, Morgan, EC, and Pinson, LJW (2015). "Can high-resolution marine geophysical data be inverted for soil properties?" *Proceedings of the Institute of Acoustics*. Vol. 37, Pt. 1. University of Bath, UK, Sept. 7-9, 2015.
+
+Morgan, EC, Vanneste, M, and Vardy, M (2014). "Characterization of the slope-destabilizing effects of gas-charged sediment via seismic surveys." *Proceedings of the Offshore Technology Conference*, Paper No. 25196.
+      
+Morgan, EC, and Baise, LG (2011). "Assessing the probability of occurrence of earthquake-induced landslides offshore the U.S. East Coast: a first-order, second moment approach." *GeoRisk, 2011*. [Paper #136](publications\Morgan_2011_georisk_paper.pdf).
+
+Morgan, EC, McAdoo, B, Baise, LG, and DeGroot, DJ (2007). "Quantitative seafloor geomorphology and offshore geohazards." *Proceedings of the Offshore Technology Conference*, Paper No. 18736.
+
+***

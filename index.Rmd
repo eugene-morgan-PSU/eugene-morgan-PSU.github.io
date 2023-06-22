@@ -15,7 +15,7 @@
 ---
 title: "Eugene Morgan"
 ---
-
+      
 ::: {style="float:right;position: relative; top: -40px;"}
 ```{r, echo=FALSE, out.width = "200px"}
 knitr::include_graphics("headshot.jpg")
